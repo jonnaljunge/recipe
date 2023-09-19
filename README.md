@@ -1,3 +1,3 @@
-# EXAMPLE
+# Guacamole recipe
 
-This is a description of the project.
+This is an exercise repository.
